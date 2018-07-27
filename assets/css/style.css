@@ -158,28 +158,45 @@ button {
     
 }
 .fs2 {
+    
     border-style: none
+    
+    
 
 }
 .fs3 {
+    
     border-style: none
 }
 .fs4 {
     border-style: none
 }
 
+.name {
+    width: 900px;
+    height: 20px;
+}
+
+.email {
+    width: 900px;
+    height: 20px;
+    padding: 0px
+}
+
+.message {
+    width: 900px;
+    height: 300px;
+}
+
+
+
 footer {
     height: 50px;
     background: #666666;
-    border-top-width: 3px;
-    border-top: #4aaaa5;
     position:fixed;
     bottom:0;
     left:0;
     right:0;
-    
+    border-top: 5px solid #4aaaa5;
 }
 
-.footer {
-   
-}
